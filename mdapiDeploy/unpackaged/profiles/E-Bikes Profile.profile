@@ -130,16 +130,8 @@
         <enabled>false</enabled>
     </classAccesses>
     <custom>true</custom>
-    <fieldPermissions>
-        <editable>false</editable>
-        <field>Case.Case_Category__c</field>
-        <readable>false</readable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <editable>false</editable>
-        <field>Case.Product__c</field>
-        <readable>false</readable>
-    </fieldPermissions>
+    
+
     <fieldPermissions>
         <editable>false</editable>
         <field>Order_Item__c.Price__c</field>
@@ -380,5 +372,5 @@
         <tab>Product__c</tab>
         <visibility>Hidden</visibility>
     </tabVisibilities>
-    <userLicense>Guest User License</userLicense>
+    <userLicense>Guest</userLicense>
 </Profile>
