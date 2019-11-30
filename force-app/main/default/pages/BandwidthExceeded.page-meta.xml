@@ -5,4 +5,9 @@
     <confirmationTokenRequired>false</confirmationTokenRequired>
     <description>Default Lightning Platform Limit Exceeded page</description>
     <label>BandwidthExceeded</label>
+    <packageVersions>
+        <majorNumber>1</majorNumber>
+        <minorNumber>11</minorNumber>
+        <namespace>th_con_app</namespace>
+    </packageVersions>
 </ApexPage>
